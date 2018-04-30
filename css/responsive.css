@@ -1,0 +1,160 @@
+@media (max-width: 1199px) {
+  .header-top .navbar-nav > li {
+    margin-right: 0;
+  }
+
+  .header-bottom .menu-2 li {
+    margin: 0 37px;
+  }
+}
+@media (max-width: 991px) {
+  .header-top .navbar-nav > li > a {
+    font-size: 18px;
+  }
+
+  .navbar-brand > img {
+    width: 156px;
+  }
+
+  .header-top .navbar-nav {
+    margin-top: 13px;
+  }
+
+  .header-bottom .menu-2 li {
+    margin: 0 25px;
+  }
+
+  .header-bottom .menu-2 li a {
+    font-size: 16px;
+  }
+
+  .slider .item {
+    min-height: 445px;
+  }
+
+  .product .item {
+    max-width: 400px;
+    margin: 0 auto;
+  }
+
+  .home-contact form input,
+  .home-contact form textarea {
+    width: 100%;
+  }
+
+  .contact .map {
+    width: 100%;
+    margin-top: 30px;
+  }
+
+  .logo-head h2 {
+    font-size: 35px;
+  }
+
+  .blog-content p {
+    font-size: 18px !important;
+  }
+}
+@media (max-width: 767px) {
+  .header-bottom .menu-2 li a {
+    font-size: 14px;
+  }
+
+  .header-bottom .menu-2 li {
+    margin: 0 8px;
+  }
+
+  .navbar-toggle {
+    margin-top: 22px;
+  }
+
+  .header-top .navbar-nav {
+    margin-top: 0;
+  }
+
+  .header-top #lan {
+    display: none;
+  }
+
+  .service .dropdown-search {
+    padding: 35px 15px 25px 15px;
+  }
+
+  .service .dropdown-search h3 {
+    font-size: 22px;
+  }
+
+  .home-contact .container {
+    padding: 15px;
+  }
+
+  .logo-head img {
+    margin-right: 20px;
+  }
+
+  .logo-head h2 {
+    font-size: 30px;
+  }
+
+  .product-page-service .item .text p {
+    font-size: 18px;
+  }
+}
+@media (max-width: 575px) {
+  .header-bottom .menu-2 li {
+    margin: 0 7px;
+  }
+
+  .header-bottom .menu-2 li a {
+    font-size: 12px;
+  }
+
+  .product .item h3 {
+    font-size: 25px;
+  }
+
+  .review .item h3 {
+    font-size: 32px;
+  }
+
+  .review .item h4 {
+    font-size: 22px;
+  }
+
+  .review .item h2 {
+    font-size: 44px;
+  }
+
+  .review .item p {
+    font-size: 18px;
+  }
+
+  .blog-content p {
+    font-size: 16px !important;
+  }
+}
+@media (max-width: 480px) {
+  .home-contact .contact-form {
+    padding: 30px 15px;
+  }
+
+  .section-head h2 {
+    font-size: 45px;
+  }
+
+  .section-head p {
+    font-size: 18px;
+  }
+
+  .product-page-service .dropdown-search {
+    padding: 35px 0 25px 0;
+  }
+
+  .logo-head h2 {
+    font-size: 20px;
+  }
+
+  .contact form label {
+    font-size: 16px;
+  }
+}
